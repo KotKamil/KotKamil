@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, my name is Mariusz</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
 
-- 🔭 I’m currently working on **Social Media App** 
+- 🔭 I’m currently working on **User friendly GUS's database interafe** 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular 2**
 
 - 👯 I’m looking to collaborate on **interesting web projects**
 

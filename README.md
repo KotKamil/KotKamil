@@ -1,11 +1,12 @@
+
 <h1 align="center">Hi 👋, my name is Mariusz</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
 
-- 🔭 I’m currently working on **User friendly GUS's database interafe** 
+- 🔭 I’m currently working on **improving my skills** 
 
-- 🌱 I’m currently learning **Angular 2**
+- 🌱 I’m currently learning **algorithms and data structures**
 
-- 👯 I’m looking to collaborate on **interesting web projects**
+- 👯 I’m looking to collaborate on **next.js/angular/java projects**
 
 - 📫 Conntact me on discord **KotKamil#1872**
 
@@ -25,9 +26,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
 </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 </a> 
@@ -35,8 +33,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
 </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
-</a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-plain.svg" alt="webpack" width="40" height="40"/> 
+</a>
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-plain.svg" alt="webpack" width="40" height="40"/>
+</a>
+</a>
+ <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg" alt="angular" width="40" height="40"/>
 </a>
 
 <h4 align="center">Back end</h4>
@@ -56,12 +59,12 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> 
 </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
+</a>
 
 <h4 align="center">Other</h4>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/> 
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> 
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -69,6 +72,12 @@
 </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> 
 </a>
 
 <h3>Github stats</h3>
